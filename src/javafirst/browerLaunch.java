@@ -67,9 +67,6 @@ public class browerLaunch {
 
 		ele.sendKeys("selenium");
 		ele.sendKeys(Keys.ENTER);
-		Alert al=new Alert(driver.switchTo().alert();	
-		Select s=new Select(ele);
-		driver.findElement(By.)
 	
 	}
 	
